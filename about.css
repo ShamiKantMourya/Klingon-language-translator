@@ -39,3 +39,70 @@ body {
 .links {
     display: inline;
 }
+
+.container {
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin: 2rem 4rem;
+}
+
+.container h2 {
+    color: #fff;
+    font-weight: bold;
+}
+
+p {
+    color: #fff;
+}
+
+.about {
+    text-align: center;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    margin: 0rem 4rem;
+}
+
+.footer {
+    text-align: center;
+    color: #fff;
+    border-top-right-radius: 20px;
+    padding: 20px 10px;
+}
+
+.footer-list {
+    list-style: none;
+
+}
+
+.social-link a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0px 5px;
+}
+
+.social-link {
+    display: inline;
+    padding: 10px;
+}
+
+.fa-brands,
+.fa-solid {
+    font-size: 20px;
+}
+
+.fa-brands:hover {
+    padding: 5px 5px;
+    background-color: #fff;
+    color: #5451A6;
+    border-radius: 50%;
+}
+
+.fa-solid:hover {
+    padding: 5px 5px;
+    padding: auto;
+    background-color: #fff;
+    color: #5451A6;
+    border-radius: 50%;
+}
